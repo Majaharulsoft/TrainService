@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Central Station",
+    "location": "Downtown"
+  },
+  {
+    "name": "North Station",
+    "location": "Northside"
+  },
+  {
+    "name": "South Station",
+    "location": "Southside"
+  },
+  {
+    "name": "East Station",
+    "location": "Eastside"
+  },
+  {
+    "name": "West Station",
+    "location": "Westside"
+  }
+]
